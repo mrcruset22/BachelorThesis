@@ -1,0 +1,8 @@
+from_table,from_key,to_table,to_key
+steel_plate_fault.csv,steel_plate_fault_id,type_of_fault.csv,steel_plate_fault_id
+steel_plate_fault.csv,steel_plate_fault_id,luminosity.csv,steel_plate_fault_id
+steel_plate_fault.csv,steel_plate_fault_id,indices.csv,steel_plate_fault_id
+indices.csv,indices_id,edges.csv,indices_id
+indices.csv,indices_id,log_measurements.csv,indices_id
+luminosity.csv,luminosity_id,max_measurements.csv,luminosity_id
+luminosity.csv,luminosity_id,min_measurements.csv,luminosity_id

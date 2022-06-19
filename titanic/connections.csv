@@ -1,0 +1,4 @@
+from_table,from_key,to_table,to_key
+titanic.csv,titanic_id,passenger_info.csv,titanic_id
+titanic.csv,titanic_id,ticket_info.csv,titanic_id
+titanic.csv,titanic_id,cabin.csv,titanic_id
